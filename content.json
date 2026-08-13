@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": "text",
+      "content": "<div style='text-align:center;'>🔥 Новое упражнение добавлено в <b>Подтягивания</b>! <br> <span style='color:#FF512F;'>Попробуй прямо сейчас.</span></div>",
+      "link": "https://example.com"
+    },
+    {
+      "id": 2,
+      "type": "poll",
+      "question": "Какую группу мышц <font color='#00FF00'>добавить следующей</font>?",
+      "options": ["Спина", "Плечи", "Пресс 2.0"],
+      "report_to": "https://api.telegram.org/botТОКЕН_БОТА/sendMessage?chat_id=ВАШ_CHAT_ID&text="
+    },
+    {
+      "id": 3,
+      "type": "media",
+      "media_type": "image",
+      "url": "https://i.pinimg.com/originals/ad/67/86/ad6786e34280c7c5bc733a086575edc1.jpg",
+      "content": "<b>Поддержи наш проект на Lava!</b>",
+      "link": "https://app.lava.top/pumpchannel?tabId=donate"
+    }
+  ]
+}
+{
+  "items": [
+    {
+      "id": 4,
+      "type": "media",
+      "media_type": "video",
+      "url": "https://disk.sample.cat/samples/mp4/1416529-sd_640_360_30fps.mp4",
+      "content": "<b>Новое упражнение для пресса</b><br><span style=\"color:#00FF00\">Посмотри технику выполнения</span>",
+      "link": "https://example.com"
+    }
+  ]
+}

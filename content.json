@@ -35,6 +35,15 @@
       "url": "https://disk.sample.cat/samples/mp4/1416529-sd_640_360_30fps.mp4",
       "content": "<b>Новое упражнение для пресса</b><br><span style=\"color:#00FF00;\">Посмотри технику выполнения</span>",
       "link": "https://example.com"
+    },
+    {
+      "id": 5,
+      "enabled": true,
+      "type": "media",
+      "media_type": "video",
+      "url": "https://timbrica.com/test-files/video/bars-1080p-h264-30fps-10s.mp4",
+      "content": "<b>Видео со звуком</b><br><span style=\"color:#00FF00;\">Посмотри технику выполнения</span>",
+      "link": "https://example.com"
     }
   ]
 }

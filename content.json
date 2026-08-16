@@ -11,10 +11,10 @@
       "id": 2,
       "enabled": true,
       "type": "poll",
-      "reset_version": 1,
+      "reset_version": 2,
       "question": "Какую группу мышц <font color=\"#00FF00\">добавить следующей</font>?",
       "options": [
-        "Спина",
+        "Спинаф",
         "Плечи",
         "Пресс 2.0"
       ]

@@ -6,10 +6,10 @@
       "type": "text",
       "content": "<div style=\"text-align:center;\">?? Новое упражнение добавлено в <b>Подтягивания</b>!<br><span style=\"color:#FF512F;\">Попробуй прямо сейчас.</span></div>",
       "link": "https://example.com"
-    }/*,
+    },
     {
       "id": 2,
-      "enabled": true,
+      "enabled": false,
       "type": "poll",
       "reset_version": 2,
       "question": "Какую группу мышц <font color=\"#00FF00\">добавить следующей</font>?",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "enabled": true,
+      "enabled": false,
       "type": "media",
       "media_type": "image",
       "reset_version": 1,
@@ -41,13 +41,13 @@
     },
     {
       "id": 5,
-      "enabled": true,
+      "enabled": false,
       "type": "media",
       "media_type": "video",
       "reset_version": 1,
       "url": "https://timbrica.com/test-files/video/bars-1080p-h264-30fps-10s.mp4",
       "content": "<b>Видео со звуком</b><br><span style=\"color:#00FF00;\">Посмотри технику выполнения</span>",
       "link": "https://example.com"
-    }*/
+    }
   ]
 }

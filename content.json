@@ -6,8 +6,8 @@
       "type": "text",
       "content": "<div style=\"text-align:center;\">?? Новое упражнение добавлено в <b>Подтягивания</b>!<br><span style=\"color:#FF512F;\">Попробуй прямо сейчас.</span></div>",
       "link": "https://example.com"
-    },
-    /*{
+    }/*,
+    {
       "id": 2,
       "enabled": true,
       "type": "poll",

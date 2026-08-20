@@ -2,7 +2,7 @@
   "items": [
     {
       "id": 1,
-      "enabled": true,
+      "enabled": false,
       "type": "text",
       "content": "<div style=\"text-align:center;\">?? Новое упражнение добавлено в <b>Подтягивания</b>!<br><span style=\"color:#FF512F;\">Попробуй прямо сейчас.</span></div>",
       "link": "https://example.com"
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "enabled": true,
+      "enabled": false,
       "type": "media",
       "media_type": "video",
       "reset_version": 1,
